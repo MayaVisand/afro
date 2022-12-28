@@ -1,9 +1,5 @@
+import logo from './logo.svg';
 import './App.css';
-import Header from "./Components/Navigation/Header";
-import Gallery from "./Components/Galery/Gallery";
-import BlogPage from "./Components/Blog/Blog";
-import {Route, Routes} from "react-router-dom";
-
 
 function App() {
     return (
